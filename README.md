@@ -1,8 +1,5 @@
 ### By cocoa web SoftWare
-
-![GitHub followers](https://img.shields.io/github/followers/cocoawebsoftware)
-
-![GitHub stars](https://img.shields.io/github/stars/cocoawebsoftware?affiliations=OWNER%2CCOLLABORATOR)
+[![GitHub followers](https://img.shields.io/github/followers/cocoawebsoftware)](https://github.com/cocoawebsoftware/)
 --
 # Cocoa Movie Player
 [![Badge](https://img.shields.io/badge/Start-Cocoa%20Movie%20Player-03c4ff?style=plastic)](https://cocoawebsoftware.github.io/Cocoa-Movie-Player/)
